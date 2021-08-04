@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 03 17:23:50 CEST 2021
+azure-cosmosdb-spark_2.4.0_2.11-3.7.0-javadoc.jar>=
+azure-cosmosdb-spark_2.4.0_2.11-3.7.0-jar-with-dependencies.jar>=
+azure-cosmosdb-spark_2.4.0_2.11-3.7.0.jar>=
+azure-cosmosdb-spark_2.4.0_2.11-3.7.0-sources.jar>=
+azure-cosmosdb-spark_2.4.0_2.11-3.7.0.pom>=
